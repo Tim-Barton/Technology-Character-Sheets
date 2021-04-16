@@ -23,11 +23,13 @@ For each year of experience you have as per the table below, give yourself the p
 Then go through the Skill Tree 'spending' those points on the skills listed.   
 It's recommended to think about the path your career has taken, so if you spent 4 years in QA before transitioning to Software Engineering, then spend those QA Points on QA skills.
 
-Each year of self learning - 1 Points  
-Each year of tertiary education in non Tech fields - 1 Points  
-Each year of tertiary education in Tech fields - 2 Points  
-Each year of experience in Tech fields - 3 Points  
-For every 5 years of experience in Tech Fields - 2 Additional Points  
+| | |  
+| --- | --- |   
+| Each year of self learning | 1 Point |  
+| Each year of tertiary education in non Tech fields | 1 Point |   
+| Each year of tertiary education in Tech fields | 2 Points |  
+| Each year of experience in Tech fields | 3 Points |  
+| For every 5 years of experience in Tech Fields | 2 Additional Points |  
 
 ```
 E.g.
