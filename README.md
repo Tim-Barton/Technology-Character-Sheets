@@ -5,7 +5,7 @@ These are all styled in the Fantasy Genre, but I am more than happy if someone w
 
 ## How to
 
-1. Start your sheet by searching through the Role and Specialisations, selecting each that conforms closest to *your current role*
+1. Start your sheet by searching through the [Roles and Specialisations](roles.md), selecting each that conforms closest to *your current role*
 
 2. Work through the Skill trees, picking the skills that you feel best align with your experience.  
 There are two ways you can approach this:  
